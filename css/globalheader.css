@@ -1,0 +1,27 @@
+.globalheader{
+    background: linear-gradient(#1d1d1f var(calc(48px + 0px)), #fff 0%);
+
+    display: block;
+    min-width: 320px;
+
+    font-synthesis: none;
+    -moz-font-feature-settings: 'kern';
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    direction: ltr;
+    text-align: left;
+
+    font-size: 17px;
+    line-height: 1.47059;
+    font-weight: 400;
+    letter-spacing: -.022em;
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    background-color: #fff;
+    color: #1d1d1f;
+    font-style: normal;
+}
+
+.visuallyhidden{
+    position: absolute;
+    clip: rect(1px, 1px, 1px, 1px);
+}
